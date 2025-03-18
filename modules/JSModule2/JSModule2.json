@@ -1,0 +1,30 @@
+{
+  "gitSyncId": "67d983d429e6e907331a09f3_24cd3e29-4c83-41e3-a9d8-4ff04aa8f4d8",
+  "moduleUUID": "de18385b-7af8-4181-8028-bc0901908ff0",
+  "type": "JS_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "gpwkyfstbr",
+            "label": "myFun2",
+            "propertyName": "inputs.myFun2"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "whzfwevhlo",
+            "label": "myFun1",
+            "propertyName": "inputs.myFun1"
+          }
+        ],
+        "id": "bbenuyzkbg",
+        "sectionName": ""
+      }
+    ],
+    "name": "JSModule2"
+  }
+}
