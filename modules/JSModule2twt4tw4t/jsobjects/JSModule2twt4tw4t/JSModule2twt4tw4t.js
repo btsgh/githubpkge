@@ -3,6 +3,7 @@ export default {
 	myVar2: {},
 	myFun1 () {
 		console.log("test1")
+		console.log("test2")
 		//	write code here
 		//	this.myVar1 = [1,2,3]
 	},
